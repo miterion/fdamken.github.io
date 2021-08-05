@@ -1,0 +1,85 @@
+baseURL: "https://fabian.damken.net/"
+title: Fabian Damken
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+    disableXML: false
+    minifyOutput: true
+
+params:
+  env: production
+  title: Fabian Damken
+  description: "My personal web page."
+  keywords: []
+  author: Fabian Damken
+  images: []
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    disableFingerprinting: true
+    favicon: favicon.png
+    favicon16x16: favicon16x16.png
+    favicon32x32: favicon32x32.png
+    apple_touch_icon: apple_touch_icon.png
+    safari_pinned_tab: safari_pinned_tab.png
+
+  profileMode:
+    enabled: true
+    title: Fabian Damken
+    subtitle: "Get in touch:"
+    imageUrl: me.jpg
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: my image
+#    buttons:
+#      - name: Posts
+#        url: posts
+#      - name: Tags
+#        url: tags
+
+  socialIcons:
+    - name: linkedin
+      url: "https://linkedin.com/in/fdamken"
+    - name: github
+      url: "https://github.com/fdamken"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/4907452"
+    - name: twitter
+      url: "https://twitter.com/fabian_damken"
+    - name: email
+      url: "mailto:fabian@damken.net?subject=Contact via fabian.damken.net&body=Hi%20Fabian%2C%0A%0A%E2%80%A6"
+
+#menu:
+#  main:
+#    - identifier: categories
+#      name: categories
+#      url: /categories/
+#      weight: 10
+#    - identifier: tags
+#      name: tags
+#      url: /tags/
+#      weight: 20
+#    - identifier: example
+#      name: example.org
+#      url: https://example.org
+#      weight: 30
