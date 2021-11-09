@@ -11,6 +11,11 @@ minify:
   disableXML: false
   minifyOutput: true
 
+outputs:
+  home:
+    - HTML
+    - JSON
+
 params:
   env: production
   title: Fabian Damken
@@ -54,8 +59,6 @@ params:
     buttons:
       - name: "Go to My Summaries"
         url: summaries
-#      - name: Tags
-#        url: tags
 
   socialIcons:
     - name: linkedin
@@ -69,17 +72,8 @@ params:
     - name: email
       url: "mailto:fabian@damken.net?subject=Contact via fabian.damken.net&body=Hi%20Fabian%2C%0A%0A%E2%80%A6"
 
-#menu:
-#  main:
-#    - identifier: categories
-#      name: categories
-#      url: /categories/
-#      weight: 10
-#    - identifier: tags
-#      name: tags
-#      url: /tags/
-#      weight: 20
-#    - identifier: example
-#      name: example.org
-#      url: https://example.org
-#      weight: 30
+menu:
+  main:
+    - identifier: search
+      name: Search
+      url: /search
