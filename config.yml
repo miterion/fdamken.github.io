@@ -22,7 +22,7 @@ params:
   defaultTheme: auto
   disableThemeToggle: false
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
@@ -51,9 +51,9 @@ params:
     imageWidth: 200
     imageHeight: 200
     imageTitle: my image
-#    buttons:
-#      - name: Posts
-#        url: posts
+    buttons:
+      - name: "Go to My Summaries"
+        url: summaries
 #      - name: Tags
 #        url: tags
 
