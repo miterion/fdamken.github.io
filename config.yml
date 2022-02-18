@@ -75,6 +75,9 @@ params:
 
 menu:
   main:
+    - identifier: latex
+      name: LaTeX Tips & Tricks
+      url: /latex
     - identifier: search
       name: Search
       url: /search

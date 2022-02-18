@@ -1,5 +1,5 @@
 ---
-title: "LaTeX Tips and Tricks"
+title: "LaTeX Tips & Tricks"
 draft: false
 date: 2022-02-18
 ---
