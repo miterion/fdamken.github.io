@@ -39,7 +39,7 @@ Instead of using `` `"`` and quirky things to generate quotation marks pointing 
 \usepackage{csquotes}
 \MakeOuterQuote{"}
 ```
-Now it is possible to just write `"as usual"` and it will be rendered `“using the correct quotes”` without any hassle.
+Now it is possible to just write `"using straight quotes"` and it will be rendered `“using the correct quotes”` without any hassle.
 `csquotes` automatically chooses the correct marks based in the language used in the `babel` package.
 
 
