@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](https://cdn.ko-fi.com/cdn/kofi1.png?v=3)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-02-22` Nearly finished chapter "Learning".
 - `2022-02-21` Started chapter "Learning".
 - `2022-02-21` Mostly finished chapter "Markov Random Fields".
 - `2022-02-20` Finished Chapter "Inference".
