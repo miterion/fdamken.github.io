@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](https://cdn.ko-fi.com/cdn/kofi1.png?v=3)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-02-23` Finished most remaining todos.
 - `2022-02-23` Finished chapter "Deep Generative Models".
 - `2022-02-23` Finished mini-chapter "Tractable Probabilistic Models".
 - `2022-02-23` Finished chapter "Approximate Inference".
