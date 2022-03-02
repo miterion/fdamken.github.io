@@ -59,6 +59,19 @@ in the preamble. To always show tags set manually (e.g., to name equations) even
 This is probably the most used one.
 
 
+## Printing Page/Line Width
+When generating images with other tools, e.g., Matplotlib, it is important to match the document's width (or height) such that the font size matches.
+However, it can be tedious to measure the width by hand.
+This is automated with the `layouts` package:
+```latex
+\usepackage{layout}
+\begin{document}
+    \printinunitsof{cm}\prntlen{\linewidth}
+\end{document}
+```
+Other units (such as `in` for inch which is useful for Matplotlib) can be chosen, too.
+
+
 ## Tooling and Utilites
 This section does not cover things that can be directly applied in LaTeX, but some tooling and utilities that can make your life a lot easier.
 
