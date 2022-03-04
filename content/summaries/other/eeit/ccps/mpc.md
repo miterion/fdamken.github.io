@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](https://cdn.ko-fi.com/cdn/kofi1.png?v=3)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-03-04` Finished chapter "Nominal Model Predictive Control".
 - `2022-03-03` Fix stability script to work on GitHub Actions.
 - `2022-03-03` Finished chapter "Preliminaries".
 - `2022-03-03` Finished section "Linear Quadratic Regulator" of chapter "Preliminaries".
