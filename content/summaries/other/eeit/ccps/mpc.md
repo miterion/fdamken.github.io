@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](https://cdn.ko-fi.com/cdn/kofi1.png?v=3)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-03-06` Typos and quasi-infinite horizon.
 - `2022-03-05` Mostly finished.
 - `2022-03-05` Finished chapter "Machine Learning in Model Predictive Control".
 - `2022-03-05` Finished chapter "Stochastic Model Predictive Control".
