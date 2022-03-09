@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-03-09` Fixed Bresenham min to max (#7)
 - `2022-03-09` Fixes to the VC Summary (#6)
 - `2020-05-15` Fixed errors introduced by malicious RegEx.
 - `2020-05-15` Streamlined OS, VC.
