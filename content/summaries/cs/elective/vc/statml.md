@@ -3,9 +3,9 @@ title: "Statistical Machine Learning by Fabian Damken (english)"
 draft: false
 ---
 
-[Download](statml-summary.pdf)
+[![Download](/download.png)](statml-summary.pdf)
 
-[![Buy Me a Coffee](https://cdn.ko-fi.com/cdn/kofi1.png?v=3)](https://ko-fi.com/fdamken)
+[![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
 - `2021-11-08` Costemtics and fix of GdR summary.

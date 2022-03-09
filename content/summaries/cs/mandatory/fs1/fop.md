@@ -3,9 +3,9 @@ title: "Funktionale und objektorientierte Programmierkonzepte von Fabian Damken 
 draft: false
 ---
 
-[Download](fop-summary.pdf)
+[![Download](/download.png)](fop-summary.pdf)
 
-[![Buy Me a Coffee](https://cdn.ko-fi.com/cdn/kofi1.png?v=3)](https://ko-fi.com/fdamken)
+[![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
 - `2020-05-15` Made documents compile.

@@ -3,9 +3,9 @@ title: "Visual Computing von Fabian Damken (deutsch)"
 draft: false
 ---
 
-[Download](vc-summary.pdf)
+[![Download](/download.png)](vc-summary.pdf)
 
-[![Buy Me a Coffee](https://cdn.ko-fi.com/cdn/kofi1.png?v=3)](https://ko-fi.com/fdamken)
+[![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
 - `2022-03-09` Fixes to the VC Summary (#6)

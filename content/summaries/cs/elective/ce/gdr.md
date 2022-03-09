@@ -3,9 +3,9 @@ title: "Grundlagen der Robotik von Fabian Damken (deutsch)"
 draft: false
 ---
 
-[Download](gdr-summary.pdf)
+[![Download](/download.png)](gdr-summary.pdf)
 
-[![Buy Me a Coffee](https://cdn.ko-fi.com/cdn/kofi1.png?v=3)](https://ko-fi.com/fdamken)
+[![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
 - `2021-11-08` Costemtics and fix of GdR summary.
