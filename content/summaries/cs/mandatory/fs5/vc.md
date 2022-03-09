@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](https://cdn.ko-fi.com/cdn/kofi1.png?v=3)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-03-09` Fixes to the VC Summary (#6)
 - `2020-05-15` Fixed errors introduced by malicious RegEx.
 - `2020-05-15` Streamlined OS, VC.
 - `2020-03-04` VC Summary Version 15.
