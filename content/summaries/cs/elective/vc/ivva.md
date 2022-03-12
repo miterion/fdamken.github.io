@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-03-12` Abschnitte "Zeitbasierte Daten" und "Graphen und Bäume" im Kapitel "Spezialisierte Visualisierungstechniken" fertiggestellt.
 - `2022-03-11` Abschnitte "Hochdimensionale Daten" und "Große Datenmengen" im Kapitel "Spezialisierte Visualisierungstechniken" fertiggestellt.
 - `2022-03-11` Kapitel "Der Informationsvisualisierungsprozess" fertiggestellt.
 - `2022-03-11` Abschnitte "Wahrnehmung, Position und Layout" und "Visuelle Abbildung" in Kapitel "Der Visualisierungsprozess" fertiggestellt.
