@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-03-14` Kapitel "Visual Analytics" fertiggestellt.
 - `2022-03-13` Struktur des "Visual Analytics"-Teil fertiggestellt.
 - `2022-03-12` Kapitel "Spezialisierte Visualisierungstechniken" fertiggestellt.
 - `2022-03-12` Abschnitte "Zeitbasierte Daten" und "Graphen und Bäume" im Kapitel "Spezialisierte Visualisierungstechniken" fertiggestellt.
