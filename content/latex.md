@@ -72,6 +72,24 @@ This is automated with the `layouts` package:
 Other units (such as `in` for inch which is useful for Matplotlib) can be chosen, too.
 
 
+## Gaussian Elimination
+To typeset systems of linear equations and Gaussian elimination, the [`gauss`](https://www.ctan.org/tex-archive/macros/latex/contrib/gauss) package is extremely useful.
+It allows documenting the operations (e.g., adding one row to another) applied to the matrix/the system of linear equations reoresent by the coefficient matrix.
+
+
+## Setting the Starting `enumerate`-Number
+It is possible to set the number an `enumerate` starts counting with by setting the counter `enumi` to how many items have been “shown before”:
+```latex
+\begin{enumerate}
+    \setcounter{enumi}{3}
+    \item This will be compiled as the fourth item.
+    \item This will be compiled as the fifth item.
+    \item This will be compiled as the sixth item.
+\end{enumerate}
+```
+This can be useful to show intermediate texts.
+
+
 ## Tooling and Utilites
 This section does not cover things that can be directly applied in LaTeX, but some tooling and utilities that can make your life a lot easier.
 
