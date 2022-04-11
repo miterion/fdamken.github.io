@@ -64,7 +64,7 @@ When generating images with other tools, e.g., Matplotlib, it is important to ma
 However, it can be tedious to measure the width by hand.
 This is automated with the `layouts` package:
 ```latex
-\usepackage{layout}
+\usepackage{layouts}
 \begin{document}
     \printinunitsof{cm}\prntlen{\linewidth}
 \end{document}
