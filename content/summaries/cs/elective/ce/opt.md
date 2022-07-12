@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-07-12` In 8.1.2:  Fix Formula for lambda^dot (#8)
 - `2022-03-09` Add xstring package to fdsummary class.
 - `2020-07-15` Opt: Minor fixes.
 - `2020-07-11` Opt: Chapter 11.
