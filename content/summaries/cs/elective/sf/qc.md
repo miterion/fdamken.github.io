@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-07-16` qc: started quantum error correction
 - `2022-07-16` qc: finished universal computation
 - `2022-07-16` qc: finished computational complexity
 - `2022-07-15` qc: finished postulates of quantum mechanics
