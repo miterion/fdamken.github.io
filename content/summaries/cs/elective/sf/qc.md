@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-07-16` qc: finished universal computation
 - `2022-07-16` qc: finished computational complexity
 - `2022-07-15` qc: finished postulates of quantum mechanics
 - `2022-07-13` qc: replaced spaces with tabs
