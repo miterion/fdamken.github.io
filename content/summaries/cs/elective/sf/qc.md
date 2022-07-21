@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-07-21` qc: finished quantum nonlocality
 - `2022-07-21` qc: fix compilation by adding required images
 - `2022-07-20` qc: finished quantum algorithms
 - `2022-07-18` qc: started algorithms
