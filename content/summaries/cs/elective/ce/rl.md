@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-07-27` rl: finished monte-carlo methods
 - `2022-07-27` rl: finished dynamic programming
 - `2022-07-25` rl: finished markov decision processes
 - `2022-07-24` rl: finished preliminaries
