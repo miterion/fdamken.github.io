@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-07-28` rl: finished function approximation
 - `2022-07-27` rl: finished temporal difference learning
 - `2022-07-27` rl: finished monte-carlo methods
 - `2022-07-27` rl: finished dynamic programming
