@@ -8,6 +8,9 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-07-30` rl: started deep rl
+- `2022-07-30` rl: finished policy search and proof of policy gradient theorem
+- `2022-07-29` rl: mostly finished policy search
 - `2022-07-28` rl: finished function approximation
 - `2022-07-27` rl: finished temporal difference learning
 - `2022-07-27` rl: finished monte-carlo methods
