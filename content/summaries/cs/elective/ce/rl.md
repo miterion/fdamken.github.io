@@ -8,6 +8,9 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-07-31` rl: add missing figures
+- `2022-07-31` rl: clean-up
+- `2022-07-31` rl: finished deep rl
 - `2022-07-30` rl: started deep rl
 - `2022-07-30` rl: finished policy search and proof of policy gradient theorem
 - `2022-07-29` rl: mostly finished policy search
