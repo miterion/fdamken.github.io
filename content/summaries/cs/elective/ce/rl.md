@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-08-01` rl: finished deep actor-critic
 - `2022-07-31` rl: started deep actor-critic
 - `2022-07-31` rl: add missing figures
 - `2022-07-31` rl: clean-up
