@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-08-02` rl: answered self-test questions
 - `2022-08-01` rl: added some self-test questions
 - `2022-08-01` rl: added special case of Bellman contraction
 - `2022-08-01` rl: finished frontiers
