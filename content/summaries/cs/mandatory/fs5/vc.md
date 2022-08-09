@@ -8,6 +8,8 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-08-09` make vc compile again
+- `2022-08-09` VC corrections (#12)
 - `2022-07-31` vc: add missing link (actually fixed #10)
 - `2022-07-31` vc: fixed wrong link (fixes #10)
 - `2022-03-09` Fixed Bresenham min to max (#7)
