@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-08-09` Update content.tex (#11)
 - `2022-07-24` Ein paar Grammatikfehler/Rechtschreibfehler verbessert und Links erneuert (#9)
 - `2021-11-08` Unified figure generation.
 - `2021-07-28` DMML: Fixed typo.
