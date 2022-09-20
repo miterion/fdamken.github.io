@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-09-20` some fixes for DLAM (#16)
 - `2021-11-08` Fix DLAM summary.
 - `2021-11-08` Unified figure generation.
 - `2021-08-02` DLAM: Finished chapter "Probabilistic Graphical Models".
