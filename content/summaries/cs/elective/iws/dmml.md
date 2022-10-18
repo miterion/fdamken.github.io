@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-10-18` Dark mode (re) (#15)
 - `2022-10-18` Fixed Adaboost Formula and FNR/TNR / Added to FMSE and Infman summaries (#14)
 - `2022-08-09` Update content.tex (#11)
 - `2022-07-24` Ein paar Grammatikfehler/Rechtschreibfehler verbessert und Links erneuert (#9)

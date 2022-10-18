@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-10-18` Dark mode (re) (#15)
 - `2022-09-20` some fixes for DLAM (#16)
 - `2021-11-08` Fix DLAM summary.
 - `2021-11-08` Unified figure generation.

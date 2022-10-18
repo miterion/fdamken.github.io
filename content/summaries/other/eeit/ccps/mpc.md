@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-10-18` Dark mode (re) (#15)
 - `2022-03-07` Fixed typos.
 - `2022-03-06` Typos and quasi-infinite horizon.
 - `2022-03-05` Mostly finished.

@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-10-18` Dark mode (re) (#15)
 - `2021-11-08` Costemtics and fix of GdR summary.
 - `2021-11-08` Added script for compiling changed documents.
 - `2021-11-08` Unified figure generation.

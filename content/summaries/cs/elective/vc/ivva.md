@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-10-18` Dark mode (re) (#15)
 - `2022-03-15` Kapitel "Kognitive Psychologie" fertiggestellt.
 - `2022-03-14` Kapitel "Visual Analytics" fertiggestellt.
 - `2022-03-13` Struktur des "Visual Analytics"-Teil fertiggestellt.

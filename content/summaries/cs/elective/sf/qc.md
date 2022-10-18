@@ -8,6 +8,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-10-18` Dark mode (re) (#15)
 - `2022-07-21` qc: fixed minor errors
 - `2022-07-21` qc: added formulary
 - `2022-07-21` qc: finished quantum nonlocality
