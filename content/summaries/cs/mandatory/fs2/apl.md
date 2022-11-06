@@ -3,7 +3,8 @@ title: "Aussagenlogik und Prädikatenlogik von Fabian Damken (deutsch)"
 draft: false
 ---
 
-[![Download](/download.png)](apl-summary.pdf)
+[![Download (Light Mode)](/download.png)](apl-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](apl-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
