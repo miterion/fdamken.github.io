@@ -3,7 +3,8 @@ title: "Rechnerorganisation von Fabian Damken (deutsch)"
 draft: false
 ---
 
-[![Download](/download.png)](ro-summary.pdf)
+[![Download (Light Mode)](/download.png)](ro-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](ro-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

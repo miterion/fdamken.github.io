@@ -3,7 +3,8 @@ title: "Probabilistic Graphical Models by Fabian Damken (english)"
 draft: false
 ---
 
-[![Download](/download.png)](pgm-summary.pdf)
+[![Download (Light Mode)](/download.png)](pgm-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](pgm-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

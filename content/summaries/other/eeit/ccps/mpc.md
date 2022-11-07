@@ -3,7 +3,8 @@ title: "Model-Predictive Control and Machine Learning by Fabian Damken (english)
 draft: false
 ---
 
-[![Download](/download.png)](mpc-summary.pdf)
+[![Download (Light Mode)](/download.png)](mpc-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](mpc-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

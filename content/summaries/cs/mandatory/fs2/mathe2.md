@@ -3,7 +3,8 @@ title: "Mathematik 2 (Analysis) von Fabian Damken (deutsch)"
 draft: false
 ---
 
-[![Download](/download.png)](mathe2-summary.pdf)
+[![Download (Light Mode)](/download.png)](mathe2-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](mathe2-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

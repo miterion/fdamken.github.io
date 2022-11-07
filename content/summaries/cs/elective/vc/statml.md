@@ -3,7 +3,8 @@ title: "Statistical Machine Learning by Fabian Damken (english)"
 draft: false
 ---
 
-[![Download](/download.png)](statml-summary.pdf)
+[![Download (Light Mode)](/download.png)](statml-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](statml-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

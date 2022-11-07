@@ -3,7 +3,8 @@ title: "Software Engineering von Fabian Damken (deutsch)"
 draft: false
 ---
 
-[![Download](/download.png)](se-summary.pdf)
+[![Download (Light Mode)](/download.png)](se-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](se-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

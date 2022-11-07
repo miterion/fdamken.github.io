@@ -3,7 +3,8 @@ title: "Automaten, formale Sprachen und Entscheidbarkeit von Fabian Damken (deut
 draft: false
 ---
 
-[![Download](/download.png)](afe-summary.pdf)
+[![Download (Light Mode)](/download.png)](afe-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](afe-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

@@ -3,7 +3,8 @@ title: "Architekturen und Entwurf von Rechnersystemen von Fabian Damken (deutsch
 draft: false
 ---
 
-[![Download](/download.png)](aer-summary.pdf)
+[![Download (Light Mode)](/download.png)](aer-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](aer-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

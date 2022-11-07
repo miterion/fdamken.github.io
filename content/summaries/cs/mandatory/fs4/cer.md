@@ -3,7 +3,8 @@ title: "Computational Engineering und Robotik von Fabian Damken (deutsch)"
 draft: false
 ---
 
-[![Download](/download.png)](cer-summary.pdf)
+[![Download (Light Mode)](/download.png)](cer-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](cer-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

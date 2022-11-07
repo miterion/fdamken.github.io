@@ -3,7 +3,8 @@ title: "Reinforcement Learning by Fabian Damken (english)"
 draft: false
 ---
 
-[![Download](/download.png)](rl-summary.pdf)
+[![Download (Light Mode)](/download.png)](rl-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](rl-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

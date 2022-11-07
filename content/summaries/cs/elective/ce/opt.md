@@ -3,7 +3,8 @@ title: "Optimierung statischer und dynamischer Systeme von Fabian Damken (deutsc
 draft: false
 ---
 
-[![Download](/download.png)](opt-summary.pdf)
+[![Download (Light Mode)](/download.png)](opt-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](opt-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

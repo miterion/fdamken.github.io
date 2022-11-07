@@ -3,7 +3,8 @@ title: "Modellierung, Spezifikation und Semantik von Fabian Damken (deutsch)"
 draft: false
 ---
 
-[![Download](/download.png)](moses-summary.pdf)
+[![Download (Light Mode)](/download.png)](moses-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](moses-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

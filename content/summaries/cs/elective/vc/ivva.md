@@ -3,7 +3,8 @@ title: "Informationsvisualisierung und Visual Analytics von Fabian Damken (deuts
 draft: false
 ---
 
-[![Download](/download.png)](ivva-summary.pdf)
+[![Download (Light Mode)](/download.png)](ivva-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](ivva-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

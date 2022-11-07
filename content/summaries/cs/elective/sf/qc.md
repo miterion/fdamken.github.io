@@ -3,7 +3,8 @@ title: "Quantum Computing by Fabian Damken (english)"
 draft: false
 ---
 
-[![Download](/download.png)](qc-summary.pdf)
+[![Download (Light Mode)](/download.png)](qc-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](qc-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

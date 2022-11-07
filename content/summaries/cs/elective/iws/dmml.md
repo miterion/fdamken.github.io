@@ -3,7 +3,8 @@ title: "Data Mining und Maschinelles Lernen von Fabian Damken (deutsch)"
 draft: false
 ---
 
-[![Download](/download.png)](dmml-summary.pdf)
+[![Download (Light Mode)](/download.png)](dmml-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](dmml-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

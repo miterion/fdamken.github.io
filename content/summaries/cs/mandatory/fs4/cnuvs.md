@@ -3,7 +3,8 @@ title: "Computer Netzwerke und verteilte Systeme von Fabian Damken (deutsch)"
 draft: false
 ---
 
-[![Download](/download.png)](cnuvs-summary.pdf)
+[![Download (Light Mode)](/download.png)](cnuvs-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](cnuvs-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

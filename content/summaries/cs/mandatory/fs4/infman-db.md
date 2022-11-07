@@ -3,7 +3,8 @@ title: "Informationsmanagement: Datenbanken von Fabian Damken (deutsch)"
 draft: false
 ---
 
-[![Download](/download.png)](infman-db-summary.pdf)
+[![Download (Light Mode)](/download.png)](infman-db-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](infman-db-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

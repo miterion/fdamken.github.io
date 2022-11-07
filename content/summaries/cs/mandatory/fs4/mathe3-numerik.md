@@ -3,7 +3,8 @@ title: "Mathematik 3 (Numerik) von Fabian Damken (deutsch)"
 draft: false
 ---
 
-[![Download](/download.png)](mathe3-numerik-summary.pdf)
+[![Download (Light Mode)](/download.png)](mathe3-numerik-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](mathe3-numerik-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

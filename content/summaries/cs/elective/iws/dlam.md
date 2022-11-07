@@ -3,11 +3,13 @@ title: "Deep Learning: Architectures and Methods by Fabian Damken (english)"
 draft: false
 ---
 
-[![Download](/download.png)](dlam-summary.pdf)
+[![Download (Light Mode)](/download.png)](dlam-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](dlam-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2022-11-07` dlam: convert gaussian.pdf to dark
 - `2022-10-18` Dark mode (re) (#15)
 - `2022-09-20` some fixes for DLAM (#16)
 - `2021-11-08` Fix DLAM summary.

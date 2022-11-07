@@ -3,7 +3,8 @@ title: "Information Management: Natural Language Processing by Fabian Damken (en
 draft: false
 ---
 
-[![Download](/download.png)](infman-nlp-summary.pdf)
+[![Download (Light Mode)](/download.png)](infman-nlp-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](infman-nlp-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

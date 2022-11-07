@@ -3,7 +3,8 @@ title: "Computersystemsicherheit von Tim Pollandt, mit Korrekturen von Janika Kr
 draft: false
 ---
 
-[![Download](/download.png)](css-waidner-summary.pdf)
+[![Download (Light Mode)](/download.png)](css-waidner-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](css-waidner-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

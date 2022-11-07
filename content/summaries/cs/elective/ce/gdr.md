@@ -3,7 +3,8 @@ title: "Grundlagen der Robotik von Fabian Damken (deutsch)"
 draft: false
 ---
 
-[![Download](/download.png)](gdr-summary.pdf)
+[![Download (Light Mode)](/download.png)](gdr-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](gdr-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 

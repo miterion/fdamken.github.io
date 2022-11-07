@@ -3,7 +3,8 @@ title: "Formale Methoden im Softwareentwurf by Fabian Damken (english)"
 draft: false
 ---
 
-[![Download](/download.png)](fmse-summary.pdf)
+[![Download (Light Mode)](/download.png)](fmse-summary.pdf)
+[![Download (Dark Mode)](/download-dark.png)](fmse-summary-dark.pdf)
 
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
