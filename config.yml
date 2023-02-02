@@ -2,6 +2,8 @@ baseURL: "https://fabian.damken.net/"
 title: Fabian Damken
 theme: PaperMod
 
+copyright: "[Impressum](/impressum/) | [Datenschutzerklärung](/privacy/) &nbsp;---"
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -72,14 +74,13 @@ params:
     - name: email
       url: "mailto:fabian@damken.net?subject=Contact via fabian.damken.net&body=Hi%20Fabian%2C%0A%0A%E2%80%A6"
 
-  custom:
-    googleAnalytics: G-1BZF6S1627
-
 menu:
   main:
     - identifier: latex
       name: LaTeX Tips & Tricks
       url: /latex
+      weight: 10
     - identifier: search
       name: Search
       url: /search
+      weight: 20
