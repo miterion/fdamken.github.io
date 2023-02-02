@@ -1,6 +1,7 @@
 ---
 title: "Datenschutzerklärung"
 draft: false
+robotsNoIndex: true
 ---
 
 ## Datenschutz auf einen Blick

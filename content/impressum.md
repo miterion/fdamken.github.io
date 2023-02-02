@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
 draft: false
-noindex: true
+robotsNoIndex: true
 ---
 
 ## Angaben gemäß § 5 TMG
