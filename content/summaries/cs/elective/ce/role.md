@@ -9,6 +9,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2023-03-23` a bunch of fixed typos (#18)
 - `2021-03-29` RoLe: Added answers to the mock exam.
 - `2021-03-28` RoLe: Updated planning doc.
 - `2021-03-28` RoLe: Answered ML self-test questions.
