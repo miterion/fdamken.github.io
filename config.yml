@@ -9,6 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableGitInfo: true
+custom_css: css/style.css
 
 minify:
   disableXML: false
@@ -55,9 +56,9 @@ params:
     title: Fabian Damken
     subtitle: "Get in touch:"
     imageUrl: me.jpg
-    imageWidth: 200
-    imageHeight: 200
-    imageTitle: my image
+    imageWidth: 500
+    imageHeight: 333
+    imageTitle: me
     buttons:
       - name: "Go to My Summaries"
         url: summaries
