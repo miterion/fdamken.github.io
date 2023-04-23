@@ -57,7 +57,7 @@ params:
     subtitle: "Get in touch:"
     imageUrl: me.jpg
     imageWidth: 500
-    imageHeight: 333
+    imageHeight: " "
     imageTitle: me
     buttons:
       - name: "Go to My Summaries"
