@@ -9,6 +9,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2023-07-15` cnuvs: add abbreviations (#19)
 - `2023-07-15` cnuvs: routing layer number fix (#20)
 - `2022-10-18` Dark mode (re) (#15)
 - `2021-07-21` Fixed Typos and TCP Table. Added new Cards. (#3)
