@@ -81,7 +81,15 @@ menu:
       name: LaTeX Tips & Tricks
       url: /latex
       weight: 10
+    - identifier: proof-of-work
+      name: Proof of Work
+      url: /proof-of-work
+      weight: 20
+    - identifier: summaries
+      name: Summaries
+      url: /summaries
+      weight: 30
     - identifier: search
       name: Search
       url: /search
-      weight: 20
+      weight: 40
