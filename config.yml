@@ -78,7 +78,7 @@ params:
 menu:
   main:
     - identifier: latex
-      name: LaTeX Tips & Tricks
+      name: LaTeX
       url: /latex
       weight: 10
     - identifier: proof-of-work

@@ -1,18 +1,17 @@
 ---
 title: "LaTeX Tips & Tricks"
 draft: false
-date: 2022-02-18
 ---
 
 I use LaTeX a lot.
 In fact, all of my [summaries](/summaries) are written in LaTeX.
 Over the years, I found and got used to some tips and tricks that enhance the experience with LaTeX a lot.
 I figured it might be useful to collect them in one place, as others might find them useful too.
+I will expand it once I find something new, exciting, and useful but it may never be complete.
 
-This page is still a draft will most likely always stay one.
-I'll expand it once I find something new, exciting, and useful but it may never be complete.
+If you want to know some basic [LaTeX best practices](best-practices), head over to that page.
 
-Last Updated: {{% param lastmod %}} (if someone knows how to format the `lastmod` parameter in Hugo's Markdown renderer, please contact me :D)
+Last Updated: {{% param lastmod %}} (if someone knows how to format the `lastmod` parameter in Hugo’s Markdown renderer, please contact me :D)
 
 
 ## Aligning Subfigure Captions
@@ -59,7 +58,7 @@ Instead of relying on the starred environments like `equation*` and `align*` to 
 ```
 in the preamble. To always show tags set manually (e.g., to name equations) even if they are not referenced, use
 ```latex
-\mathtoolsset{showonlyrefs,showmanualtags}
+\mathtoolsset{showonlyrefs, showmanualtags}
 ```
 This is probably the most used one.
 
@@ -78,11 +77,11 @@ Other units (such as `in` for inch which is useful for Matplotlib) can be chosen
 
 
 ## Scaling TikZ Pictures and PGF Plots
-Stemming from [this TeXExchange question](https://tex.stackexchange.com/q/36297/117107) on scaling pgfplots, the neat package `tikzscale` was created that enables to use `\includegraphics` for TikZ-pictures, too:
+Stemming from [this TeXExchange question](https://tex.stackexchange.com/q/36297/) on scaling pgfplots, the neat package `tikzscale` was created that enables to use `\includegraphics` for TikZ-pictures, too:
 ```latex
 \usepackage{tikzscale}
 \begin{document}
-    \includegrphics[width=\linewidth]{some-picture.tikz}
+    \includegraphics[width=\linewidth]{some-picture.tikz}
 \end{document}
 ```
 The file `some-picture.tikz` contains just the `\begin{tikzpicture} … \end{tikzpicture}` part.
