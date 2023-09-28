@@ -9,9 +9,9 @@ Over the years, I found and got used to some tips and tricks that enhance the ex
 I figured it might be useful to collect them in one place, as others might find them useful too.
 I will expand it once I find something new, exciting, and useful but it may never be complete.
 
-If you want to know some basic [LaTeX best practices](best-practices), head over to that page.
+If you want to contribute, [feel free to create an issue](https://github.com/fdamken/fdamken.github.io/issues/) or [submit a pull request](https://github.com/fdamken/fdamken.github.io/pulls).
 
-Last Updated: {{% param lastmod %}} (if someone knows how to format the `lastmod` parameter in Hugo’s Markdown renderer, please contact me :D)
+If you want to know some basic [LaTeX best practices](best-practices), head over to that page.
 
 
 ## Aligning Subfigure Captions
