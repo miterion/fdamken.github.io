@@ -18,22 +18,22 @@ Note that this is a bit different from my [LaTeX tips & tricks]({{< relref "late
 - Figures
     - Figures belong in `figure` environment, tables in `table` environments, listings in the respective listing environment, etc. [Go to full explanation.](#figure-placement)
     - Figures, tables, algorithms, listings, etc. are _floating_ objects. Do not enforce figure placement, LaTeX knows what it is doing. [Go to full explanation.](#figure-placement)
-    - If a small image is tighlty bound to a piece of text and does not carry meaning in itself, it is not a figure. Place it in a `center` environment and keep it where it is.
+    - If a small image is tightly bound to a piece of text and does not carry meaning in itself, it is not a figure. Place it in a `center` environment and keep it where it is.
     - Never place figures within text, they should _float_ to the top (or bottom) of the page. Let LaTeX handle this. [Go to full explanation.](#figure-placement)
 - General
-    - **Never** allow compilation erorrs to persist in your document. If you are using Overleaf, change `Try to compile despite errors` to `Stop on first error` in the menu next to the `Recompile` button to remind you of this. [Go to full explanation.](#never-allow-errors-to-persist)
+    - **Never** allow compilation errors to persist in your document. If you are using Overleaf, change `Try to compile despite errors` to `Stop on first error` in the menu next to the `Recompile` button to remind you of this. [Go to full explanation.](#never-allow-errors-to-persist)
     - Set your encoding correctly using `\usepackage[utf8]{inputenc}` to type umlauts without shenanigans such as `\"a` or use LuaLaTeX which handles this correctly.
     - Use an acronym package to automatically introduce acronyms appropriately. Use [`acronym`](#handling-acronyms-acronym) if you just need the handling (for small documents such as papers) and [`glossaries`](#handling-acronyms-glossaries) if you need a glossary (for large documents such as theses).
     - [Use `csquotes` for placing quotation marks.](/latex/tips-and-tricks/#automatically-using-correct-quotation-marks) Only use `"` and `'` in the code, never `‚`, `‘`, `’`, `„`, `“`, `”`, or similar.
 - Math
     - Do not use “plain symbols” such as `||`/`...`/etc.. Instead use `\Vert`/`\dots`/etc. [Go to full explanation.](#do-not-use-plain-symbols)
     - Do not use `\text` for “operators,” instead use `\mathrm`. Example: Use `\( D_\mathrm{KL} \)`, not `\( D_\text{KL} \)`. [Go to full explanation.](#do-not-use-text-for-operators)
-    - Prefer `\( … \)` over `$ … $` and prefer `\[ … \]` over `$$ … $$`. The dolar notation is a TeX primitive and not meant to be used in LaTeX documents.
+    - Prefer `\( … \)` over `$ … $` and prefer `\[ … \]` over `$$ … $$`. The dollar notation is a TeX primitive and not meant to be used in LaTeX documents.
     - Use left/right versions of symbols, e.g., `\lvert` and `\rvert` instead of `\vert` whenever semantically reasonable. [Go to full explanation.](#use-leftright-versions-of-symbols)
 - Referencing
     - Do not use plain `\ref`s, use `cleveref` and `\cref` or at least `\autoref`. [Go to full explanation.](#do-not-use-plain-ref)
     - Label equations only when they are references. [This can be done automatically.](/latex/tips-and-tricks/#only-number-referenced-equations)
-- Typesettings
+- Typesetting
     - Use `\emph` instead of `\textit`, `\textbf`, or similar for emphasizing. `\emph` is made for emphasizing, can be configured globally, and _toggles_ the font style rather than setting it (i.e., withing an italic text, emphasized words will become straight).
 
 
@@ -60,7 +60,7 @@ TODO
 TODO
 
 #### Do Not Use `\text` For Operators
-Using `\text` changes the font familiy to the document’s text family while `\mathrm` retains the math font but removes spacing that would otherwise be placed between letters.
+Using `\text` changes the font family to the document’s text family while `\mathrm` retains the math font but removes spacing that would otherwise be placed between letters.
 Note that for actual text, `\text` can still be used and `\mathrm` removes all spaces (which should never be used in math operators anyway).
 
 #### Use Left/Right Versions of Symbols
