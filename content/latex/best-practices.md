@@ -11,7 +11,7 @@ Thus, I decided to collect this list of “best practices” so that I can refer
 If you want to contribute, [feel free to create an issue](https://github.com/fdamken/fdamken.github.io/issues/) or [submit a pull request](https://github.com/fdamken/fdamken.github.io/pulls).
 Thanks to [Heiko](https://miterion.de/) who helped extending this list.
 
-Note that this is a bit different from my [LaTeX tips & tricks](tips-and-tricks) and a lot more basic, although I will refer to said page from time to time.
+Note that this is a bit different from my [LaTeX tips & tricks]({{< relref "latex/tips-and-tricks" >}}) and a lot more basic, although I will refer to said page from time to time.
 
 
 ## Best Practices
